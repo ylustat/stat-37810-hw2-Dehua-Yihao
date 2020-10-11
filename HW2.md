@@ -36,9 +36,14 @@ Please enter four numbers ranging from 1 to 10: > 5 8 7 3
 [1] 5 7 8 3
 ```
 
-##Question 3
+##Question 2
 
-Output of the results: the function can identify the problems in input and after three times of incorrect input it will end and output the correct answer.
+Output of the results: the function can identify the problems in input and after three times of incorrect input it will end and output the correct answer. It can deal with
+
+- Input contains characters
+- Input contains negative numbers
+- Input contains duplicated numbers
+- Input have more than 4 elements
 
 ```R
 > source('~/Desktop/UChicago/2020-2021/2020Fall/Computing/stat-37810-hw2-Dehua-Yihao/HW2-PAIR.R')
