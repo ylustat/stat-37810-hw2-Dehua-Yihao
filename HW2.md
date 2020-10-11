@@ -1,9 +1,6 @@
 # Paired homework 2
-## Dehua and Yihao did this together
+## Dehua Bi and Yihao Lu did this together
 ## Question 1
-
-Dehua Bi and Yihao Lu
-
 In R
 
 ```R
