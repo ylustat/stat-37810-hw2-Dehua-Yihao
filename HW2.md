@@ -36,7 +36,7 @@ Please enter four numbers ranging from 1 to 10: > 5 8 7 3
 [1] 5 7 8 3
 ```
 
-##Question 2
+## Question 2
 
 Output of the results: the function can identify the problems in input and after three times of incorrect input it will end and output the correct answer. It can deal with
 
